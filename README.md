@@ -34,8 +34,8 @@ Find relevant opportunities for girls throughout the year👇
 |  Opportunity | Type of Opportunity  |  Time |
 |---|---|---|
 | Visa Code your way  | Coding challenge  | November  |
-| Adobe CoDiva  |   |   |
-|  LinkedIn Wintathon | Hackathon  |   |
+| Adobe CoDiva  | Hackathon  |  March |
+|  LinkedIn Wintathon | Hackathon  |  November |
 |  AmazeWoW | Internship  | April  |
 |  American Express Makeathon | Hackathon  | February  |
 
@@ -50,4 +50,4 @@ Find relevant opportunities for girls throughout the year👇
 | Grace Hopper Scholarship  |   |   |
 |  SheIntuit by Intuit |   | August  |
 |  Goldman Sachs Women Mentorship Program |   |   |
-|  Women Who Code Mentorship |   | December  |
+|  Women Who Code Mentorship |  Everyone | December  |
