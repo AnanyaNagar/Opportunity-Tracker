@@ -1,6 +1,6 @@
 # Opportunity-Tracker
 
-Here are some amazing platforms and newsletters from where you stay updated from various opportunities right on your mail👇🤩
+Here are some amazing platforms and newsletters from where you can stay updated for various opportunities 👇🤩
 1. Twitter
 2. Linkedin
 3. [She Gazette](https://shegazette.co/)
